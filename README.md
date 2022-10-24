@@ -19,6 +19,6 @@
 
 |날짜|분류|내용|
 |---|---|---|
-|22.10.24|JavaScript|1회차.md
+|22.10.24|JavaScript|[1회차.md](/JavaScript/1회차.md)|
 
 
