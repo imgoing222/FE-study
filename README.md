@@ -1,4 +1,4 @@
-﻿# FE-study
+# FE-study
 
 
 ## Member
@@ -22,3 +22,9 @@
 |22.10.24|JavaScript|[1회차.md](/JavaScript/1회차.md)|
 
 
+
+
+
+## 레퍼런스
+
+- [prepare_frontend_interview](https://github.com/junh0328/prepare_frontend_interview)
